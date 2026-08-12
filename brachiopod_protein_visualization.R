@@ -7,7 +7,7 @@ library(ggVennDiagram)
 library(plotly)
 here()
 # read in biomineralization-associated proteins data set #
-proteins <- read_csv("/Users/aryagothoskar/Desktop/Biomineralization Files/brachiopod_proteins3.csv")    
+proteins <- read_csv("/Users/aryagothoskar/Desktop/Biomineralization Files/brachiopod_proteins4.csv")    
 
 brach_test <- proteins %>%
   filter(Species %in% c("L_anatina", "N_anomala", "T_transversa"))
