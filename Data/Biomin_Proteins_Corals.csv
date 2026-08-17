@@ -1,0 +1,160 @@
+﻿Protein,Protein_short_name,NCBI_Accession,Uniprot_Accession,A_cervicornis,A_digitifera,A_millepora,A_muricata,A_palmata,D_pertusum,G_fascicularis,M_capitata,M_capricornis,M_digitata,M_foliosa,O_patagonica,O_annularis,O_faveolata,O_franksi,P_damicornis,P_meandrina,P_verrucosa,P_evermanni,P_harrisoni,P_furcata,P_lobata,P_lutea,S_pistillata
+Skeletal aspartic acid-rich protein 2-like,1,XP_022780690.1,N/A,0,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1,0,1
+Acidic skeletal organic matrix protein-like,2,XP_022781915.1,N/A,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Skeletal aspartic acid-rich protein 1-like,3,XP_022782398.1,N/A,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Coadhesin-like,4,XP_022783430,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Hephaestin,5,PFX27049.1,N/A,0,1,1,0,0,1,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,1
+MAM and LDL-receptor class A domain-containing protein 1,6,PFX23038.1,N/A,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,1,1,1
+EGF and laminin G domain-containing protein-like,7,XP_022804012.1,N/A,0,1,1,1,0,1,0,0,1,0,1,0,0,1,0,0,1,1,1,0,0,1,0,1
+Uncharacterized skeletal organic matrix protein 8-like,8,XP_022796981.1,N/A,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,1,1,1
+Carbonic anhydrase,9,ACE95141.1,N/A,1,0,1,1,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Protein dachsous-like,10,XP_022798258,N/A,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,1,0,1
+Uncharacterized protein LOC111321434,11,XP_022780049,N/A,1,1,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+PREDICTED: vitellogenin-like isoform X1,12,XP_015769089.1,N/A,0,1,0,1,0,1,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,1,0,1
+PREDICTED: secreted acidic protein 1A-like,13,XP_015767765.1,N/A,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Putative carbonic anhydrase,14,JR998014.1,N/A,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uncharacterized skeletal organic matrix protein 2,15,JR982706.1,N/A,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uncharacterized skeletal organic matrix protein 1 isoform X1,16,JT021412.1,N/A,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Polycystic kidney disease 1-related protein,17,JR991141.1,N/A,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galaxin,18,HM163215,N/A,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CUB domain-containing protein,19,JR989025.1,N/A,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Threonine-rich protein isoform X1,20,JT013896.1,N/A,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galaxin-2,21,JR976690.1,N/A,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mucin-like,22,N/A,B3EWY9,1,1,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Secreted acidic protein 1      (Amil-SAP1),23,N/A,B3EWZ1,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Secreted acidic protein 1      (Amil-SAP1),24,N/A,B3EWZ0,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Secreted acidic protein 2      (Amil-SAP2),25,N/A,B3EWZ4,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MAM and LDL-receptor
+domain- containing
+protein 2
+",26,N/A,B3EWZ6,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Threonine-rich protein,27,N/A,B3EWZ7,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ectin,28,N/A,B3EWZ8,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,0,1,0,0,1,1,1
+MAM and fibronectin- containing protein,29,N/A,B3EX02,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Glu-rich protein ,30,N/A,B7W112,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cephalotoxin-like protein,31,N/A,B7W114,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+Uncharacterized skeletal organic matrix protein-3  (USOMP-3),32,N/A,B8RJM0,1,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0,0,1,1,0,1,1,1
+Zona pellucida domain-containing protein ,33,N/A,G8HTB6,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Uncharacterized skeletal organic matrix protein-4  (USOMP-4),34,N/A,B8UU74,1,0,1,0,0,1,0,0,1,0,1,1,0,1,0,1,1,1,1,0,0,1,0,1
+Galaxin,35,N/A,D9IQ16,0,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,1,0,0,0,1,1,1
+Putative carbonic anhydrase ,36,N/A,B8V7P3,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Protocadherin-like ,37,N/A,B8V7Q1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,0,1,1,0,0,1,1,1
+Collagen alpha-1 chain,38,N/A,B8V7R6,0,0,1,1,0,0,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+"CUB and
+peptidase domain-containing protein 1
+",39,N/A,B8V7S0,1,1,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+MAM and fibronectin containing protein  2,40,N/A,B7T7N1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+CUB and peptidase domain-containing protein 2,41,N/A,B8VIV4,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Uncharacterized skeletal organic matrix protein-5 (USOMP-5),42,N/A,B8VIU6,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Neuroglian-like,43,N/A,B8VIW9,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Uncharacterized skeletal organic matrix protein-6 (USOMP6),44,N/A,B8VIX3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uncharacterized skeletal organic matrix protein-7 (USOMP7),45,N/A,B8WI85,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Lithostatine-like,46,TR12148|c3_g1_i2,N/A,1,0,1,1,0,1,0,0,1,1,1,1,0,0,0,1,1,1,1,1,0,1,1,1
+Seprase 2 – like ,47,TR6196|c4_g1_i1,N/A,1,1,1,1,0,1,0,0,1,1,0,1,0,1,0,1,0,1,1,0,0,1,1,1
+SAP-1b,48,TR8319|c4_g1_i1,N/A,0,1,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0
+Stereocilin-like,49,TR6183|c13_g1_i1,N/A,1,1,1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+Uncharacterized_Protein_1,50,TR43973|c2_g1_i1,N/A,1,0,0,1,0,1,0,0,1,1,1,1,0,1,0,1,1,1,0,0,0,1,1,1
+Tolloid-like 1,51,TR45900|c2_g1_i1,N/A,1,1,1,1,0,1,0,0,1,1,1,1,0,1,0,1,1,0,1,0,0,1,1,1
+Adhesion_G-protein coupled receptor,52,TR46727|c5_g2_i1,N/A,1,1,1,0,0,1,0,0,1,1,0,1,0,1,0,1,1,0,1,1,0,1,1,1
+CD109__Antigen-like,53,TR4397|c9_g1_i1,N/A,1,0,1,0,0,1,0,0,1,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1
+Matrix_metalloproteinase-24_like,54,TR23056|c2_g3_i2,N/A,1,1,1,0,0,1,0,0,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1
+Histone_H4,55,TR8373|c4_g1_i1,N/A,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ATP_synthase_subunit_beta-like,56,TR39373|c0_g3_i1,N/A,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ganglioside_GM2_activator_like,57,DN45117_c0_g1_i1,N/A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sushi_domain-containing_protein_2-like,58,DN62899_c5_g5_i1,N/A,1,1,0,1,1,0,0,0,1,0,0,1,0,1,0,1,1,1,0,1,0,1,0,1
+CruCA4_like1,59,DN64224_c6_g1_i2,N/A,1,1,1,1,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,1,0
+CruCA4_like2,60,DN64689_c5_g1_i4,N/A,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Endothelin_converting_enzyme-like,61,DN64741_c1_g1_i4,N/A,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Adhesion_G_protein_coupled_receptor_like,62,DN65525_c4_g13_i1,N/A,0,1,0,1,0,1,0,0,1,0,0,1,0,1,0,1,1,1,1,0,0,1,1,1
+Acidic_protein_2,63,DN65627_c8_g3_i2,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Retrovirus-related Pol polyprotein from transposon 17.6,64,N/A,A0A2B4R6D8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"actin,cytoplasmic isoform X1 [Stylophora pistillata]",65,XP_022795459,N/A,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+actin-3 [Stylophora pistillata],66,XP_022780033,N/A,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+polyubiquitin-C [Stylophora pistillata],67,XP_022794920,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+protocadherin fat-like protein,68,AGG36361.1,N/A,1,1,0,0,1,1,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,1,1
+coral acid rich protein 4 [Stylophora pistillata],69,AGG36357.1,N/A,1,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+"thrombospondin-like protein, partial [Stylophora pistillata]",70,AGG36335.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+hypothetical protein [Stylophora pistillata],71,AGG36336.1,N/A,1,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+"hemicentin-like protein, partial [Stylophora pistillata]",72,AGE45658.1,N/A,0,0,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1
+putative actin [Stylophora pistillata],73,AGE45656.1,N/A,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+"actin-like protein, partial [Stylophora pistillata]",74,AGG36337.1,N/A,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+"hypothetical protein, partial [Stylophora pistillata]",75,AGG36338.1,N/A,1,1,0,1,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0,0,1,1,0,1
+"protocadherin fat-like protein, partial [Stylophora pistillata]",76,AGC70194.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,1,1,1
+"cadherin-like protein, partial [Stylophora pistillata]",77,AGG36360.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,1,1,1
+"actin-like protein, partial [Stylophora pistillata]",78,AGG36339.1,N/A,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+hypothetical protein [Stylophora pistillata],79,AGC24391.1,N/A,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,1,1,1
+"sushi domain-containing protein, partial [Stylophora pistillata]",80,AGG36340.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1
+"alpha collagen-like protein, partial [Stylophora pistillata]",81,AGG36341.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1
+"coral acid rich protein 5, partial [Stylophora pistillata]",82,AGG36358.1,N/A,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+"hypothetical protein, partial [Stylophora pistillata]",83,AGG36342.1,N/A,1,1,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+"glyceraldehyde-3-phosphate dehydrogenase-like protein, partial [Stylophora pistillata]",84,AGE45657.1,N/A,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0,1,1
+"alpha collagen-like protein, partial [Stylophora pistillata]",85,AGG36343.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1
+"hypothetical protein, partial [Stylophora pistillata]",86,AGG36344.1,N/A,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,0,1,1,1,0,0,1,0,1
+"hypothetical protein, partial [Stylophora pistillata]",87,AGG36345.1,N/A,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+hypothetical protein [Stylophora pistillata],88,AGG36359.1,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1
+"myosin regulatory light chain-like protein, partial [Stylophora pistillata]",89,AGC70196.1,N/A,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,1
+"vitellogenin-like protein, partial [Stylophora pistillata]",90,AGG36347.1,N/A,0,1,0,1,0,1,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,1
+ubiquitin-like protein [Stylophora pistillata],91,AGG36348.1,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"vitellogenin-like protein, partial [Stylophora pistillata]",92,AGG36349.1,N/A,0,0,0,1,0,1,0,0,1,0,0,1,0,1,1,1,0,0,1,0,0,0,0,1
+"alpha integrin-like protein, partial [Stylophora pistillata]",93,AGG36350.1,N/A,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+"putative late embryogenesis protein, partial [Stylophora pistillata]",94,AGE45655.1,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+"beta tubulin-like protein, partial [Stylophora pistillata]",95,AGG36351.1,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"protocadherin-like protein, partial [Stylophora pistillata]",96,AGC70195.1,N/A,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,1,0,1
+"neurexin-like protein, partial [Stylophora pistillata]",97,AGG36352.1,N/A,0,1,1,1,0,1,0,0,1,0,1,1,0,1,1,0,1,1,1,0,0,1,0,1
+"kielin-like protein, partial [Stylophora pistillata]",98,AGG36353.1,N/A,1,0,1,1,0,1,0,0,1,0,0,1,0,1,0,1,0,0,1,1,0,1,1,1
+"putative flagellar-associated protein, partial [Stylophora pistillata]",99,AGG36354.1,N/A,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,0,1,1,1,1,0,1,1,1
+"MAM receptor domain-containing protein, partial [Stylophora pistillata]",100,AGG36355.1,N/A,1,1,1,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+carbonic anhydrase [Stylophora pistillata],101,ACE95141.1,N/A,1,0,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+"zonadhesion-like protein, partial [Stylophora pistillata]",102,AGG36356.1,N/A,1,1,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+hypothetical protein AWC38_SpisGene23165 [Stylophora pistillata],103,PFX12813.1,N/A,1,0,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1,0,1
+Sacsin [Stylophora pistillata],104,PFX13778.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1
+"Proto-oncogene tyrosine-protein kinase receptor Ret, partial [Stylophora pistillata]",105,PFX14205.1,N/A,0,0,1,1,1,0,0,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,1
+Protein FAM208A [Stylophora pistillata],106,PFX15740.1,N/A,1,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,1,1,1
+hypothetical protein AWC38_SpisGene19330 [Stylophora pistillata],107,PFX16398.1,N/A,1,1,1,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Mucin-4 [Stylophora pistillata],108,PFX18785.1,N/A,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,1
+Complement C3 [Stylophora pistillata],109,PFX26597.1,N/A,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Transmembrane protease serine 9 [Stylophora pistillata],110,PFX26751.1,N/A,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,1,1,1
+Poly [ADP-ribose] polymerase 11 [Stylophora pistillata],111,PFX27832.1,N/A,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,1
+hypothetical protein AWC38_SpisGene4366 [Stylophora pistillata],112,PFX30831.1,N/A,1,1,1,1,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0,1,1
+hypothetical protein AWC38_SpisGene4292 [Stylophora pistillata],113,PFX30903.1,N/A,1,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Nidogen-2 [Stylophora pistillata],114,PFX31810.1,N/A,1,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,1,0,1
+phosphopantothenoylcysteine decarboxylase subunit VHS3-like [Stylophora pistillata],115,XP_022783323.1,N/A,0,0,0,1,0,1,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,1,1,1
+synapsin-2-like isoform X2 [Stylophora pistillata],116,XP_022786582.1,N/A,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1
+CUB domain-containing protein-like isoform X2 [Stylophora pistillata],117,XP_022799089.1,N/A,1,1,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,1,0,0,1,1,1
+EGF and laminin G domain-containing protein-like [Stylophora pistillata],118,XP_022804012.1,N/A,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,0,1,1,1,0,0,1,0,1
+,119,XP_022780303.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,120,XP_022783044.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,121,XP_022783415.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,122,XP_022783952.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,123,XP_022784623.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,124,XP_022786918.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,125,XP_022788227.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,126,XP_022788730.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,127,XP_022789591.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,128,XP_022789932.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,129,XP_022790441.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,130,XP_022792212.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,131,XP_022794122.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,132,XP_022794351.1,N/A,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022796982.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022798902.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022799541.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022803524.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022803808.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022803872.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022803894.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022804785.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022805470.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022806326.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022806664.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022806928.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022807143.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022807256.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022807807.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022808163.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022808576.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022809269.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022809270.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022810585.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022778254.1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,XP_022778283.1,,,,,,,,,,,,,,,,,,,,,,,,,
